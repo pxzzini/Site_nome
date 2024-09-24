@@ -1,0 +1,22 @@
+body{
+    background-color: teal; /* define a cor de fundo da pagina como teal */
+    font-family:'Courier New', Courier, monospace;
+    margin: 0; /*Remove a margem padrão do corpo*/
+    padding: 10px; /* Remove o padding padrão do corpo */
+}
+
+/* Estilo para a área principal */
+
+main {
+    background-color: lightgrey;
+    width: 80%;
+    margin: 0 auto;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+
+}
+
+footer{
+    
+}
