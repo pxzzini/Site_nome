@@ -1,6 +1,6 @@
 body{
     background-color: teal; /* define a cor de fundo da pagina como teal */
-    font-family:'Courier New', Courier, monospace;
+    font-family:'Courier New', Courier, monospace; /* fonte do site */
     margin: 0; /*Remove a margem padrão do corpo*/
     padding: 10px; /* Remove o padding padrão do corpo */
 }
@@ -18,5 +18,5 @@ main {
 }
 
 footer{
-    
+
 }
